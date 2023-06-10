@@ -1,8 +1,8 @@
 # DataMate
 
 Tugas Besar Pemrograman Perangkat Bergerak Kelompok 7
-105220020 | Farhan Alwahid
-105220031 | Taor Baga
+- 105220020 | Farhan Alwahid
+- 105220031 | Taor Baga
 
 DataMate adalah aplikasi serbaguna yang memungkinkan Anda mengelola dan memanipulasi data dengan efisien menggunakan SQLite. Dengan antarmuka yang mudah digunakan dan fitur-fitur yang kuat, DataMate memungkinkan Anda melakukan operasi CRUD (Create, Read, Update, Delete) dasar pada data Anda dengan mudah.
 
